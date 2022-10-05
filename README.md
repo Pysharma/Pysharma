@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysharma&label=Profile%20views&color=0e75b6&style=flat" alt="pysharma" /> </p>
 
-- 🔭 I’m currently working on **Awasthi Vitality (software developer intern)**
+- 🔭 I’m currently working on **software developer intern**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 💬 Ask me about **Flutter**
 
